@@ -1,5 +1,7 @@
 # PG Life
 
+[View this project on GitHub](https://github.com/Akumar-51/pg_life)
+
 PG Life is a responsive web application for browsing paying guest (PG) accommodations in Indian cities. Visitors can search listings and view property details without an account. Registered users can save properties they are interested in and manage them from a personal dashboard.
 
 This project was created as part of the Internshala Full Stack Web Development internship training.
